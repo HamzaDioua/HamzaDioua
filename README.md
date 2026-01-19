@@ -1,16 +1,22 @@
-## Hi there 👋
+##  Hi, I'm Hamza Dioua
 
-<!--
-**HamzaDioua/HamzaDioua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Engineering Student (ENIAD)  
+ Full Stack Junior Developer  
+ Morocco | 🌍 Open to Remote Internship  
 
-Here are some ideas to get you started:
+###  Skills
+- Frontend: React, Flutter
+- Backend: Node.js, Express, .NET
+- Databases: Oracle, MySQL
+- Languages: Java, C#, Python, JavaScript, Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Projects
+-  Stock Management App (Flutter + QR Code)
+-  SmartShop (E-commerce Mobile App)
+-  Full Stack To-Do App (React + Node.js)
+
+ Check my repositories below 
+
+###  Contact
+- Email: hamzadioua@gmail.com
+- LinkedIn: linkedin.com/in/hamza-dioua-70069619b
