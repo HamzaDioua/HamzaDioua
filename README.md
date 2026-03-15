@@ -5,7 +5,7 @@
  Morocco | 🌍 Open to Remote Internship  
 
 ###  Skills
-- Frontend: React, Flutter
+- Frontend: React, Flutter, Angular
 - Backend: Node.js, Express, .NET
 - Databases: Oracle, MySQL
 - Languages: Java, C#, Python, JavaScript, Dart
