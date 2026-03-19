@@ -1,13 +1,13 @@
 ##  Hi, I'm Hamza Dioua
 
  Computer Engineering Student (ENIAD)  
- Full Stack Junior Developer  
+ Software engineer 
  Morocco | 🌍 Open to Remote Internship  
 
 ###  Skills
 - Frontend: React, Flutter, Angular
-- Backend: Node.js, Express, .NET
-- Databases: Oracle, MySQL
+- Backend: Node.js, Express, .NET ,Spring Boot ,EJB
+- Databases: Oracle, MySQL ,Postgresql
 - Languages: Java, C#, Python, JavaScript, Dart
 
 ###  Projects
