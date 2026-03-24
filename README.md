@@ -1,6 +1,6 @@
 ##  Hi, I'm Hamza Dioua
 
- Computer Engineering Student (ENIAD)  
+ Software Engineering Student (ENIAD)  
  Software engineer 
  Morocco | 🌍 Open to Remote Internship  
 
